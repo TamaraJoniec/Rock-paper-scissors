@@ -8,8 +8,6 @@ In this activity, I've worked in a small group to build a rock-paper-scissors ga
 * Paper: wins against rock, loses to scissors, and ties against itself.
 * Scissors: wins against paper, loses to rock, and ties against itself.
 
-![RPS-Example-Picture](images/RPS-example.png)
-
 ### Instructions
 
 * As a user:
