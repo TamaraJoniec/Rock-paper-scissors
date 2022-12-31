@@ -16,5 +16,7 @@ In this activity, I've worked in a small group to build a rock-paper-scissors ga
   * I expect the computer to choose R, P, or S in return.
   * I want the option to play again whether I win or lose.
   * I want to see my total wins, ties, and losses after 10 rounds.
-
+  
+URL to deployed application:
+https://tamarajoniec.github.io/Rock-paper-scissors/
 
